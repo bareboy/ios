@@ -13,14 +13,13 @@
                     <key>url</key>
                     <string>https://tj.hxlp.tk/806.ipa</string>
                 </dict>
-                
                  <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://github.com/trembleCat/IPA-Trusteeship/blob/master/ipa.jpg?raw=true</string>
+                    <string>https://raw.githubusercontent.com/bareboy/ios/main/ipa.jpg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -28,11 +27,8 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://github.com/trembleCat/IPA-Trusteeship/blob/master/ipa.jpg?raw=true</string>
+                    <string>https://raw.githubusercontent.com/bareboy/ios/main/ipa.jpg</string>
                 </dict>
-                
-                
-                
             </array>
             <key>metadata</key>
             <dict>
