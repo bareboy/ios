@@ -12,7 +12,10 @@
                     <string>software-package</string>
                     <key>url</key>
                     <string>https://tj.hxlp.tk/806.ipa</string>
+                          <!--  上面为安装包的https下载地址，必须有   -->
                 </dict>
+                      <!--  下面注释的内容为ipa包安装的时候显示的图片，不影响实际图标，可有可无   -->
+                      <!--  注释内容   -->
                  <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
@@ -29,17 +32,21 @@
                     <key>url</key>
                     <string>https://raw.githubusercontent.com/trembleCat/IPA-Trusteeship/master/ipa.jpg</string>
                 </dict>
+                      <!--  注释内容   -->
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
                 <string>com.newtx.52201</string>
+                <!--  上面为app包名，也就是 bundleid  必须有   -->
                 <key>bundle-version</key>
                 <string>8.0.6</string>
+                <!--  上面为app版本   -->
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>weixin11</string>
+                <string>weixin</string>
+                <!--  app名称，随意设置，下载安装时会弹窗展示   -->
             </dict>
         </dict>
     </array>
