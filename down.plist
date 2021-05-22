@@ -22,7 +22,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/bareboy/ios/main/ipa.jpg</string>
+                    <string>https://raw.githubusercontent.com/bareboy/ios/main/512x512bb.JPG</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -30,7 +30,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/bareboy/ios/main/ipa.jpg</string>
+                    <string>https://raw.githubusercontent.com/bareboy/ios/main/512x512bb.JPG</string>
                 </dict>
                       <!--  注释内容   -->
             </array>
