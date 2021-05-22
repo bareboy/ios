@@ -19,11 +19,11 @@
                 <key>bundle-identifier</key>
                 <string>com.newtx.52201</string>
                 <key>bundle-version</key>
-                <string>8.0.1</string>
+                <string>8.0.6</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>微信8.06版</string>
+                <string>weixin</string>
             </dict>
         </dict>
     </array>
